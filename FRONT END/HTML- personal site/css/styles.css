@@ -1,0 +1,24 @@
+body {
+    background-color: #F5E9CF;
+}
+hr {
+    /*background-color: white;*/
+    border-style: none;     /*here one value asssigned gets applied to all four top left right bottom*/
+    border-top-style: dotted;  /*but here we specified that the top side of that hr line is dotted */
+    border-color: grey;
+    border-width: 5px ;
+    width: 5%;
+}
+img {
+    height: 400px;
+}
+h1 {
+    color: #66bfbf;
+    font-style: oblique;
+}
+h3 {
+    color: #66bfbf;
+}
+img:hover {
+    background-color: whitesmoke;
+}

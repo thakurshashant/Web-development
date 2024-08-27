@@ -1,0 +1,31 @@
+/***************************TAG SELECTORS*******************************/
+h1 {
+    color: aliceblue;
+    font-size: 100px;
+}
+img {
+    height: 400px;
+    background-color: crimson;
+}
+
+
+/*************************CLASS SELECTORS*******************************/
+.cheese {
+    background-color: red;
+    border-radius: 100%;
+}
+.bacon {
+    background-color: yellow;
+}
+img:hover {
+    background-color: aliceblue;
+}
+
+
+
+
+
+/***************************ID SELECTORS*******************************/
+#heading {
+    color: blue;
+}
